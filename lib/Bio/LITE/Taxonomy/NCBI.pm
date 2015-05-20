@@ -152,7 +152,7 @@ use Carp qw/croak/;
 #}
 use base qw(Bio::LITE::Taxonomy);
 
-our $VERSION = "0.010";
+our $VERSION = 0.1;
 
 use constant FS => '\t\|\t';
 use constant RS => '\t\|\n';
